@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "jquery": "^3.5.1",
     "peer": "^0.5.3",
+    "popper.js": "^1.16.1",
     "socket.io": "^2.3.0",
     "uuid": "^8.3.0"
   }
